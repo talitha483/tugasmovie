@@ -1,0 +1,54 @@
+name: tugasmovie
+description: A Flutter monkey-themed gallery app
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/monkey1.png
+    - assets/images/profile_owner.jpeg
+    - assets/images/splshh.png
+    - assets/images/pisang.jpg
+    - assets/images/tel.jpg
+    - assets/images/salmon.jpg
+    - assets/images/biji.jpg
+    - assets/images/daging.jpg
+    - assets/images/golden.jpg
+    - assets/images/husky.jpg
+    - assets/images/persia.jpg
+    - assets/images/salm.jpg
+    - assets/images/anggora.jpg
+    - assets/images/buldog.jpg
+    - assets/images/cpc.jpg
+    - assets/images/madril.jpg
+    - assets/images/emas.jpg
+    - assets/images/header.jpeg
+    - assets/images/cat_makan.jpg
+    - assets/images/burungg.jpg
+    - assets/images/kelincii.jpg
+    - assets/images/jing.jpg
+    - assets/images/nyet.jpg
+    - assets/images/burungg.jpg
+    - assets/images/kelincii.jpg
+    - assets/images/Lovebird.jpg
+    - assets/images/kenari.jpg
+    - assets/images/kakaktua.jpg
+    - assets/images/lop.jpg
+    - assets/images/giant.jpg
+    - assets/images/land.jpg
+
